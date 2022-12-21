@@ -1,4 +1,6 @@
-public class C01_Java {
+package Java;
+
+public class C01 {
 
     public static void main(String[] args) {
 
